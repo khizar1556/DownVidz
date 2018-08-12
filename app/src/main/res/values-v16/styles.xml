@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="md_h5">
+        <item name="android:fontFamily">@fonts/roboto</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:capitalize">sentences</item>
+        <item name="android:spacing">0sp</item>
+    </style>
+    <style name="md_overline">
+        <item name="android:fontFamily">@fonts/roboto</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:spacing">1.5sp</item>
+    </style>
+</resources>
