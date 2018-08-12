@@ -20,8 +20,9 @@ Project status:
 `3AcFNxGKLW357XKg9RJuBPSU3wjezi1HPh`
 
 ## Screenshots
+1
 
-[<img src="screenshots/Screenshot_20180808-123621.png" width=160>](screenshots/Screenshot_20180808-123621.png)
+[<img src="screenshots/s1.png" width=160>](screenshots/s1.png)
 [<img src="screenshots/Screenshot_20180808-123634.png" width=160>](screenshots/Screenshot_20180808-123634.png)
 [<img src="screenshots/Screenshot_20180808-123702.png" width=160>](screenshots/Screenshot_20180808-123702.png)
 [<img src="screenshots/Screenshot_20180808-123707.png" width=160>](screenshots/Screenshot_20180808-123707.png)
