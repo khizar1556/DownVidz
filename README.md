@@ -28,11 +28,11 @@ Project status:
 [<img src="screenshots/Screenshot_20180808-123707.png" width=160>](screenshots/Screenshot_20180808-123707.png)
 [<img src="screenshots/Screenshot_20180808-123724.png" width=160>](screenshots/Screenshot_20180808-123724.png)
 [<img src="screenshots/Screenshot_20180808-123740.png" width=160>](screenshots/Screenshot_20180808-123740.png)
-[<img src="screenshots/Screenshot_20180808-123809.png" width=160>](screenshots/Screenshot_20180808-123809.png)
-[<img src="screenshots/Screenshot_20180808-123837.png" width=160>](screenshots/Screenshot_20180808-123837.png)
 [<img src="screenshots/Screenshot_20180811-144452.png" width=160>](screenshots/Screenshot_20180811-144452.png)
 [<img src="screenshots/Screenshot_20180811-144532.png" width=160>](screenshots/Screenshot_20180811-144532.png)
 [<img src="screenshots/screenshot_7.png" width=160>](screenshots/screenshot_7.png)
+[<img src="screenshots/Screenshot_20180808-123809.png">](screenshots/Screenshot_20180808-123809.png)
+[<img src="screenshots/Screenshot_20180808-123837.png">](screenshots/Screenshot_20180808-123837.png)
 
 
 ## Description
