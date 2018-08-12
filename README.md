@@ -15,11 +15,23 @@ Project status:
 
 ## Donate
 ![Bitcoin](https://bitcoin.org/img/icons/logotop.svg)
+![BitcoinQR](screenshots/3AcFNxGKLW357XKg9RJuBPSU3wjezi1HPh.png)
 
 `3AcFNxGKLW357XKg9RJuBPSU3wjezi1HPh`
 
 ## Screenshots
 
+[<img src="screenshots/Screenshot_20180808-123621.png" width=160>](screenshots/Screenshot_20180808-123621.png)
+[<img src="screenshots/Screenshot_20180808-123634.png" width=160>](screenshots/Screenshot_20180808-123634.png)
+[<img src="screenshots/Screenshot_20180808-123702.png" width=160>](screenshots/Screenshot_20180808-123702.png)
+[<img src="screenshots/Screenshot_20180808-123707.png" width=160>](screenshots/Screenshot_20180808-123707.png)
+[<img src="screenshots/Screenshot_20180808-123724.png" width=160>](screenshots/Screenshot_20180808-123724.png)
+[<img src="screenshots/Screenshot_20180808-123740.png" width=160>](screenshots/Screenshot_20180808-123740.png)
+[<img src="screenshots/Screenshot_20180808-123809.png" width=160>](screenshots/Screenshot_20180808-123809.png)
+[<img src="screenshots/Screenshot_20180808-123837.png" width=160>](screenshots/Screenshot_20180808-123837.png)
+[<img src="screenshots/Screenshot_20180811-144452.png" width=160>](screenshots/Screenshot_20180811-144452.png)
+[<img src="screenshots/Screenshot_20180811-144532.png" width=160>](screenshots/Screenshot_20180811-144532.png)
+[<img src="screenshots/screenshot_7.png" width=160>](screenshots/screenshot_7.png)
 
 
 ## Description
